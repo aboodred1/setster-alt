@@ -1,2 +1,2 @@
-# setster-alt
+# Setster Alternative
 Setster implementation UI alternative.
